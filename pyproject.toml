@@ -13,6 +13,7 @@ dependencies = [
     "langchain-groq>=1.1.3",
     "langgraph>=1.2.16",
     "pydantic>=2.14.1",
+    "streamlit>=1.66.1",
 ]
 
 [project.scripts]

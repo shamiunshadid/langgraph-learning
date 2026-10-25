@@ -97,9 +97,7 @@ graph.add_edge("chat_node", END)
 
 chatbot = graph.compile(checkpointer=checkpointer)
 
-chatbot.stream(
-    
-)
+
 # thread_id = "1"
 
 # while True:
